@@ -54,7 +54,6 @@ To run this project:
 ## Authors
 
 - Pratim Chowdhary - Dartmouth College
-- Hardik Gupta - Thayer School of Engineering
-- Sarah Nam - Dartmouth College
+- Hardik Gupta - Thayer School of Engineering at Dartmouth
 
-For more detailed information, please refer to the [presentation slides](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/28942171/2eb3840b-4ac0-4e00-a17f-b51f3457ca80/Final-Presentation.pptx) and the [research paper](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/28942171/babe4c94-7d0a-47bc-b654-bb7c1b315095/paper-1.pdf).
+For more detailed information, please refer to the [presentation slides](https://github.com/guptahardik/RLGameSolver/blob/main/Final%20Presentation.pptx) and the [research paper](https://github.com/guptahardik/RLGameSolver/blob/main/paper.pdf).
